@@ -46,7 +46,7 @@ def check_letters(word, user_guess):
 
 def main():
     word = generate_word()
-    print("Word to guess:", word)  # Display the word the user is trying to guess
+    print("Word to guess:")  # Display the word the user is trying to guess
     input("Press Enter to start guessing...")
 
     attempts = 6
