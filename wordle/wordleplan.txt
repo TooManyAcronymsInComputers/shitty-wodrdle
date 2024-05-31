@@ -1,0 +1,40 @@
+===============================================
+|                                             |
+| wordle program                              |
+| version: 0.1                                |
+|                                             |
+| File: ICTPRG302/CLASSWORK/wordle.py         |
+| author: lochlan shand                       |
+| copyright: Copyright 2024, lochlan shand    |
+===============================================
+
+=====================================================================
+for the task
+code standerd = PEP8
+var_names = snake_case
+
+=====================================================================
+list of libraies
+
+some libraies i am gonna use
+time.h
+to get the current date and take the write word form the .txt file
+
+=====================================================================
+to do list                                                          |
+|                                                                   |
+|                                                                   |
+|                                                                   |
+|                                                                   |
+|                                                                   |
+user input                                                          | 
+user input errors                                                   |
+stored trys                                                         |
+limit how shots till faliure                                        |
+have libraies list based on day                                     | 
+5 character limit                                                   | 
+function to split the word and acces slots for each                 |
+function to read it letter of the players                           | 
+function for letters in the right place                             |
+functioin for letter that are in the word but in the worng space    | 
+function for wrong letter                                           |
